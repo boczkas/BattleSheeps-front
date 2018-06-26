@@ -7,6 +7,9 @@
     <groupId>pl.jakubowskiprzemyslaw.tajgertim</groupId>
     <artifactId>battleSheep</artifactId>
     <version>0.1-SNAPSHOT</version>
-
+    <packaging>pom</packaging>
+    <modules>
+        <module>battlesheep-front</module>
+    </modules>
 
 </project>
